@@ -1,5 +1,5 @@
 # DD1327 Övning 6 
-2020-05-08
+2020-05-08 kl 08.00
 ## Tabell för maximal inkomst och garnåtgång
 | Längd (n):   | Inkomst: P(n)  | Garnåtgång     |
 | ------------- |:-------------:|:-------------: |
